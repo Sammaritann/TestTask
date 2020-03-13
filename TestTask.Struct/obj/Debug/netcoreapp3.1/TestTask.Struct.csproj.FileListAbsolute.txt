@@ -1,0 +1,8 @@
+D:\TestTask\TestTask.Struct\obj\Debug\netcoreapp3.1\TestTask.Struct.csprojAssemblyReference.cache
+D:\TestTask\TestTask.Struct\obj\Debug\netcoreapp3.1\TestTask.Struct.AssemblyInfoInputs.cache
+D:\TestTask\TestTask.Struct\obj\Debug\netcoreapp3.1\TestTask.Struct.AssemblyInfo.cs
+D:\TestTask\TestTask.Struct\bin\Debug\netcoreapp3.1\TestTask.Struct.deps.json
+D:\TestTask\TestTask.Struct\bin\Debug\netcoreapp3.1\TestTask.Struct.dll
+D:\TestTask\TestTask.Struct\bin\Debug\netcoreapp3.1\TestTask.Struct.pdb
+D:\TestTask\TestTask.Struct\obj\Debug\netcoreapp3.1\TestTask.Struct.dll
+D:\TestTask\TestTask.Struct\obj\Debug\netcoreapp3.1\TestTask.Struct.pdb
